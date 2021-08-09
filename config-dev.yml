@@ -1,2 +1,2 @@
 config:
-  info: "config-dev"
+  info: "config-dev,age=26,version=2"
